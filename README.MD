@@ -1,0 +1,2 @@
+This is a silly simple 2d-3d set of rendering tools that'll eventually get turned into a pretty simple game.
+This project is mostly so I can learn Rust a bit, perhaps have a little fun along the way too.
